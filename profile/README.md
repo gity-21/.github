@@ -55,6 +55,12 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
       </a><br/>
       <sub>Co-Founder</sub>
     </td>
+     <td align="center">
+      <a href="[https://github.com/ereniko">
+        <img src="https://github.com/ereniko" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Taruk</b></sub>
+      </a><br/>
+      <sub>Co-Founder</sub>
   </tr>
 </table>
 
