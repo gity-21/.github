@@ -44,21 +44,21 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
     <td align="center">
       <a href="https://github.com/mehmetsolves">
         <img src="https://github.com/mehmetsolves.png" width="72" style="border-radius:50%"/><br/>
-        <sub><b>Mehmet</b></sub>
+        <sub><b>Mehmet Şah Yıldırım</b></sub>
       </a><br/>
       <sub>Co-Founder</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Taruk21">
         <img src="https://github.com/Taruk21.png" width="72" style="border-radius:50%"/><br/>
-        <sub><b>Taruk</b></sub>
+        <sub><b>Muhammed Taruk</b></sub>
       </a><br/>
       <sub>Co-Founder</sub>
     </td>
      <td align="center">
-      <a href="[https://github.com/ereniko">
-        <img src="https://github.com/ereniko" width="72" style="border-radius:50%"/><br/>
-        <sub><b>Taruk</b></sub>
+      <a href="https://github.com/ereniko">
+        <img src="https://github.com/ereniko.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Eren Gültekin</b></sub>
       </a><br/>
       <sub>Co-Founder</sub>
   </tr>
