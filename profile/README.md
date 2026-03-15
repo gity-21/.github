@@ -7,7 +7,6 @@
 ![LOCATION](https://img.shields.io/badge/LOCATION-Türkiye-58a6ff?style=flat-square&labelColor=0d1117)
 
 </div>
----
 
 ## `> whoami`
 
