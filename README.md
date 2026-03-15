@@ -23,10 +23,9 @@ GITY projeleri, karmaşık sistemleri (Complex Systems) optimize etmek üzere ü
 ### 📈 Global Impact & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gity-21&show_icons=true&theme=tokyonight&hide_border=true" alt="GITY Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gity-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gity-21&show_icons=true&theme=tokyonight&hide_border=true&is_org=true" alt="GITY Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gity-21&layout=compact&theme=tokyonight&hide_border=true&is_org=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🔗 Strategic References
