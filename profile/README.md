@@ -1,21 +1,12 @@
 <div align="center">
-```
-```
- ██████╗ ██╗████████╗██╗   ██╗   ██████╗  ██╗
-██╔════╝ ██║╚══██╔══╝╚██╗ ██╔╝  ╚════██╗███║
-██║  ███╗██║   ██║    ╚████╔╝    █████╔╝╚██║
-██║   ██║██║   ██║     ╚██╔╝    ██╔═══╝  ██║
-╚██████╔╝██║   ██║      ██║     ███████╗ ██║
- ╚═════╝ ╚═╝   ╚═╝      ╚═╝     ╚══════╝ ╚═╝
-```
-```
+
+# `⬡ GITY.21`
 
 ![MISSION](https://img.shields.io/badge/MISSION-Bridging_Hardware_%26_Software-3affa0?style=flat-square&labelColor=0d1117)
 ![STACK](https://img.shields.io/badge/PRIMARY_STACK-JavaScript-f0db4f?style=flat-square&labelColor=0d1117&logo=javascript)
 ![LOCATION](https://img.shields.io/badge/LOCATION-Türkiye-58a6ff?style=flat-square&labelColor=0d1117)
 
 </div>
-
 ---
 
 ## `> whoami`
