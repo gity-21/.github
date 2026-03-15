@@ -33,7 +33,7 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 ### 🏠 [haven](https://github.com/gity-21/haven)
 > Odak ve üretkenlik platformu. Dijital ortamda "güvenli alan" yarat.
-> `JavaScript`
+> `JavaScript` `2⭐`
 
 ---
 
