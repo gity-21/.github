@@ -39,10 +39,9 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 ## `> stats`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gity-21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3affa0&icon_color=58a6ff&text_color=8b949e" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gity-21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3affa0&text_color=8b949e" height="140"/>
-</p>
+![](https://img.shields.io/github/stars/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=f0db4f&label=GeoPlayer%20⭐)
+![](https://img.shields.io/github/stars/gity-21/haven?style=flat-square&labelColor=0d1117&color=f0db4f&label=haven%20⭐)
+![](https://img.shields.io/github/last-commit/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=3affa0&label=last%20commit)
 
 ---
 
