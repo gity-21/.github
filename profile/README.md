@@ -1,12 +1,14 @@
 <div align="center">
 
-# `⬡ GITY.21`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=3AFFA0&center=true&vCenter=true&width=500&lines=GITY.21;Hardware+%2B+Software;Build.+Learn.+Ship.)](https://git.io/typing-svg)
 
 ![MISSION](https://img.shields.io/badge/MISSION-Bridging_Hardware_%26_Software-3affa0?style=flat-square&labelColor=0d1117)
 ![STACK](https://img.shields.io/badge/PRIMARY_STACK-JavaScript-f0db4f?style=flat-square&labelColor=0d1117&logo=javascript)
 ![LOCATION](https://img.shields.io/badge/LOCATION-Türkiye-58a6ff?style=flat-square&labelColor=0d1117)
 
 </div>
+
+---
 
 ## `> whoami`
 
@@ -19,8 +21,9 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 | Katman | Teknolojiler |
 |---|---|
-| 🖥️ **Software** | Python (Backend / AI) · React Native · Node.js |
+| 🖥️ **Software** | Python · React Native · Node.js |
 | ⚡ **Hardware** | Arduino · Embedded Systems · IoT |
+| 🔧 **Systems** | C · Low-level · Embedded Control |
 | 🎯 **Odak** | Scalable Automation · Robotic Control · Academic Productivity |
 
 ---
@@ -28,32 +31,54 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 ## `> ls ./projects`
 
 ### 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer)
-> Konum tabanlı medya deneyimi. GPS verisini medya oynatmaya bağlar.
-> `JavaScript` · `Geolocation API` · `2⭐`
+> Konum tabanlı medya deneyimi. GPS verisini medya oynatmaya bağlar.  
+> `JavaScript` · `Geolocation API` · `2 ⭐`
 
 ### 🏠 [haven](https://github.com/gity-21/haven)
-> Odak ve üretkenlik platformu. Dijital ortamda "güvenli alan" yarat.
-> `JavaScript` `2⭐`
+> Odak ve üretkenlik platformu. Dijital ortamda "güvenli alan" yarat.  
+> `JavaScript`
 
 ---
 
-## `> stats`
+## `> team --founders`
 
-![](https://img.shields.io/github/stars/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=f0db4f&label=GeoPlayer%20⭐)
-![](https://img.shields.io/github/stars/gity-21/haven?style=flat-square&labelColor=0d1117&color=f0db4f&label=haven%20⭐)
-![](https://img.shields.io/github/last-commit/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=3affa0&label=last%20commit)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mehmetsolves">
+        <img src="https://github.com/mehmetsolves.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Mehmet</b></sub>
+      </a><br/>
+      <sub>Co-Founder</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mjr-taruk">
+        <img src="https://github.com/mjr-taruk.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Taruk</b></sub>
+      </a><br/>
+      <sub>Co-Founder</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> activity`
+
+> 🟢 **GeoPlayer** — aktif geliştirme  
+> 🔵 **haven** — aktif geliştirme  
+> ⬜ Yeni proje yakında...
 
 ---
 
 ## `> links`
 
-[![mjr_taruk](https://img.shields.io/badge/Twitter-mjr__taruk-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/mjr_taruk)
-[![mehmetsolves](https://img.shields.io/badge/Profile-mehmetsolves-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mehmetsolves)
+[![GitHub](https://img.shields.io/badge/GitHub-mehmetsolves-white?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/mehmetsolves)
+[![GitHub](https://img.shields.io/badge/GitHub-mjr--taruk-white?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/mjr-taruk)
+[![Instagram](https://img.shields.io/badge/Instagram-mjr__taruk-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mjr_taruk)
 
 ---
 
 <div align="center">
   <sub><code>"Efficiency is the byproduct of discipline."</code></sub>
 </div>
-
-
