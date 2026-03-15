@@ -30,13 +30,10 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 ## `> ls ./projects`
 
-### 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer)
-> Konum tabanlı medya deneyimi. GPS verisini medya oynatmaya bağlar.  
-> `JavaScript` · `Geolocation API` · `2 ⭐`
-
-### 🏠 [haven](https://github.com/gity-21/haven)
-> Odak ve üretkenlik platformu. Dijital ortamda "güvenli alan" yarat.  
-> `JavaScript`
+| Proje | Açıklama | Stack | Durum |
+|---|---|---|---|
+| 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer) | Konum tabanlı medya deneyimi | `JavaScript` `Geolocation API` | 🟢 Aktif · 2 ⭐ |
+| 🏠 [haven](https://github.com/gity-21/haven) | Odak ve üretkenlik platformu | `JavaScript` | 🟢 Aktif |
 
 ---
 
