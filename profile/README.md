@@ -52,8 +52,8 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
       <sub>Co-Founder</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/mjr-taruk">
-        <img src="https://github.com/mjr-taruk.png" width="72" style="border-radius:50%"/><br/>
+      <a href="https://github.com/Taruk21">
+        <img src="https://github.com/Taruk21.png" width="72" style="border-radius:50%"/><br/>
         <sub><b>Taruk</b></sub>
       </a><br/>
       <sub>Co-Founder</sub>
@@ -73,8 +73,7 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 ## `> links`
 
-[![GitHub](https://img.shields.io/badge/GitHub-mehmetsolves-white?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/mehmetsolves)
-[![GitHub](https://img.shields.io/badge/GitHub-mjr--taruk-white?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/mjr-taruk)
+[![Instagram](https://img.shields.io/badge/Instagram-mehmet__yldirrm-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mehmet_yldirrm)
 [![Instagram](https://img.shields.io/badge/Instagram-mjr__taruk-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mjr_taruk)
 
 ---
