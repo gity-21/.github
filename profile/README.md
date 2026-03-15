@@ -1,57 +1,39 @@
-<div align="center">
+# 🚀 GITY.21
 
-# `⬡ GITY.21`
+> **"Bridging the gap between hardware and high-level software."**
 
-![MISSION](https://img.shields.io/badge/MISSION-Bridging_Hardware_%26_Software-3affa0?style=flat-square&labelColor=0d1117)
-![STACK](https://img.shields.io/badge/PRIMARY_STACK-JavaScript-f0db4f?style=flat-square&labelColor=0d1117&logo=javascript)
-![LOCATION](https://img.shields.io/badge/LOCATION-Türkiye-58a6ff?style=flat-square&labelColor=0d1117)
-
-</div>
-
-## `> whoami`
-
-**GITY**, yazılım, robotik ve elektronik disiplinlerini bir araya getiren bir teknoloji kolektifidir.  
-Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik** ve **akademik disiplin** temel prensiplerimizdir.
+GITY, yazılım, robotik ve elektronik disiplinlerini bir araya getiren bir teknoloji kolektifidir. Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik** ve **akademik disiplin** temel prensiplerimizdir.
 
 ---
 
-## `> tech_stack --list`
+### 🛠 Technical Ecosystem & Vision
 
-| Katman | Teknolojiler |
-|---|---|
-| 🖥️ **Software** | Python (Backend / AI) · React Native · Node.js |
-| ⚡ **Hardware** | Arduino · Embedded Systems · IoT |
-| 🎯 **Odak** | Scalable Automation · Robotic Control · Academic Productivity |
+GITY projeleri, karmaşık sistemleri (Complex Systems) optimize etmek üzere üç ana sütun üzerine inşa edilmiştir:
 
----
-
-## `> ls ./projects`
-
-### 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer)
-> Konum tabanlı medya deneyimi. GPS verisini medya oynatmaya bağlar.
-> `JavaScript` · `Geolocation API` · `2⭐`
-
-### 🏠 [haven](https://github.com/gity-21/haven)
-> Odak ve üretkenlik platformu. Dijital ortamda "güvenli alan" yarat.
-> `JavaScript`
+* **Software Frameworks:** Python (Backend/AI), React Native (Cross-Platform Interface)
+* **Hardware Control:** Arduino & Embedded Systems integration
+* **Strategic Focus:** Scalable Automation, Robotic Control Algorithms, Academic Productivity
 
 ---
 
-## `> stats`
+### 📂 Current Projects
 
-![](https://img.shields.io/github/stars/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=f0db4f&label=GeoPlayer%20⭐)
-![](https://img.shields.io/github/stars/gity-21/haven?style=flat-square&labelColor=0d1117&color=f0db4f&label=haven%20⭐)
-![](https://img.shields.io/github/last-commit/gity-21/GeoPlayer?style=flat-square&labelColor=0d1117&color=3affa0&label=last%20commit)
-
----
-
-## `> links`
-
-[![mjr_taruk](https://img.shields.io/badge/Twitter-mjr__taruk-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/mjr_taruk)
-[![mehmetsolves](https://img.shields.io/badge/Profile-mehmetsolves-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mehmetsolves)
+| Project | Tech Stack | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **GeoPlayer** | JavaScript | 🛠 Active | Location-based media synchronization. |
+| **haven** | JavaScript | 📦 Stable | Modular structure for sustainable code. |
 
 ---
 
-<div align="center">
-  <sub><code>"Efficiency is the byproduct of discipline."</code></sub>
-</div>
+### 🔗 Strategic References & Inspiration
+Analizlerimizde ve vizyonumuzda rehber edindiğimiz bilimsel ve teknik kaynaklar:
+- [Evrim Ağacı](https://evrimagaci.org) • Bilimsel Sorgulama
+- [Barış Özcan](https://barisozcan.com) • Gelecek ve Teknoloji
+- [Scientific Inquiry](https://en.wikipedia.org/wiki/Scientific_method) • Metodolojik Yaklaşım
+
+---
+
+<p align="center">
+  <i>"Efficiency is the byproduct of discipline."</i><br>
+  <b>2026 | GITY Collective</b>
+</p>
