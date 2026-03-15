@@ -78,6 +78,7 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 [![Instagram](https://img.shields.io/badge/Instagram-mehmet__yldirrm-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mehmet_yldirrm)
 [![Instagram](https://img.shields.io/badge/Instagram-mjr__taruk-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mjr_taruk)
+[![Instagram](https://img.shields.io/badge/Instagram-gultekineg-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/gultekineg)
 
 ---
 
