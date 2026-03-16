@@ -34,7 +34,7 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 |---|---|---|---|
 | 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer) | Konum tabanlı harita oyunu | 🟢 Aktif |
 | 🏠 [haven](https://github.com/gity-21/haven) | Mesajlaşma platformu | 🟢 Aktif |
-
+ 
 ---
 
 ## `> team --founders`
