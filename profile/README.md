@@ -28,16 +28,6 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 
 ---
 
-## `> ls ./projects`
-
-| Proje | Açıklama | Durum |
-
-|---|---|---|---|
-| 📍 [GeoPlayer](https://github.com/gity-21/GeoPlayer) | Konum tabanlı harita oyunu | 🟢 Aktif |
-| 🏠 [haven](https://github.com/gity-21/haven) | Mesajlaşma platformu | 🟢 Aktif |
- 
----
-
 ## `> team --founders`
 
 <table>
@@ -70,16 +60,6 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
       <sub>Co-Founder</sub>
   </tr>
 </table>
-
----
-
-## `> activity`
-
-> 🟢 **GeoPlayer** — aktif geliştirme  
-> 🔵 **haven** — aktif geliştirme  
-> ⬜ Yeni proje yakında...
-
----
 
 ## `> links`
 
