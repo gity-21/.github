@@ -58,6 +58,13 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
         <sub><b>Muhammed Habib İskanoğlu</b></sub>
       </a><br/>
       <sub>Co-Founder</sub>
+             </td>
+     <td align="center">
+      <a href="https://github.com/emresosuke">
+        <img src="https://github.com/emresosuke.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Yunus Emre Kaya</b></sub>
+      </a><br/>
+      <sub>Co-Founder</sub>
   </tr>
 </table>
 
@@ -67,6 +74,7 @@ Geliştirdiğimiz çözümlerde **ölçeklenebilirlik**, **sürdürülebilirlik*
 [![Instagram](https://img.shields.io/badge/Instagram-mjr__taruk-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/mjr_taruk)
 [![Instagram](https://img.shields.io/badge/Instagram-gultekineg-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/gultekineg)
 [![Instagram](https://img.shields.io/badge/Instagram-habibiskanoglu-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/habibiskanoglu)
+[![Instagram](https://img.shields.io/badge/Instagram-kakashiimadara-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/kakashiimadara/)
 
 ---
 
